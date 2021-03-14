@@ -3,6 +3,7 @@ body {
 }
 
 h1 {
+ font-family: arial;
  padding: 60px;
  text-align: center;
  color: white;
