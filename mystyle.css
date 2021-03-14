@@ -1,8 +1,10 @@
 body {
-  background-color: lightblue;
+  background-color: black;
 }
 
 h1 {
-  color: navy;
-  margin-left: 20px;
+ padding: 60px;
+ text-align: center;
+ color: white;
+ font-size: 30px;
 }
